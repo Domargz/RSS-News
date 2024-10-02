@@ -1,0 +1,8 @@
+
+
+class UpdateRssResource{
+  constructor(){
+
+  }
+
+}
